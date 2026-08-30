@@ -16,7 +16,7 @@ Four systems. One unified vision. Institutional-grade execution.
 | **[Intima](https://intimacare.in/)** | 🟢 LIVE | Privacy-first unisex health platform ([web](https://intimacare.in/), [Android](https://play.google.com/store/apps/details?id=in.intimacare.app), [iOS](https://apps.apple.com/app/intima-period-cycle-health/id6764369166)) — cycle tracking, nutrition insights, wellness analytics, complete data privacy |
 | **[Phantom](https://harsh.fintaxlife.com/assets/docs/Phantom-AI-Overview.pdf)** | 🟡 EARLY ACCESS | Privacy-first on-device AI for Android — no cloud, multiple local models, voice + vision, offline-by-design AI companions |
 | **[Pixel Sprout](https://playpixelsprout.com)** | 🟢 LIVE | Browser-based gaming platform — 5,000+ curated web games, instant play, no downloads, no accounts |
-| **[ECHO Radio](https://www.youtube.com/@echoradiolive)** | 🔴 LIVE 24/7 | Autonomous AI radio host running its own 24/7 YouTube livestream — scheduled programming, live chat reactions, nightly bedtime story, no human at the mic |
+| **[ECHO TV- Radio](https://www.youtube.com/@echoradiolive)** | 🔴 LIVE 24/7 | Autonomous AI TV-Radio host running its own 24/7 YouTube livestream — scheduled programming, live chat reactions, nightly bedtime story, no human at the mic |
 
 ### 🧩 Other Builds
 
