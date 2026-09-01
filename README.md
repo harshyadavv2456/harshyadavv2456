@@ -68,31 +68,13 @@ Currently focused on building **FinVest**, **Intima**, **Phantom**, and **Pixel 
 
 Open to thoughtful conversations, ambitious ideas, and serious collaborations — finance, entrepreneurship, systems building.
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/fcaharshyadav/)
-[
-
-![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)
-
-](https://www.instagram.com/harsh_rs_yadav/)
-[
-
-![Email](https://img.shields.io/badge/Email-reachharshyadav%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
-
-](mailto:reachharshyadav@gmail.com)
-[
-
-![Website](https://img.shields.io/badge/Website-fintaxlife.com-000000?style=flat&logo=vercel&logoColor=white)
-
-](https://www.fintaxlife.com)
-[
-
-![Portfolio](https://img.shields.io/badge/Portfolio-harsh.fintaxlife.com-000000?style=flat&logo=vercel&logoColor=white)
-
-](https://harsh.fintaxlife.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/fcaharshyadav/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/harsh_rs_yadav/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="mailto:reachharshyadav@gmail.com"><img src="https://img.shields.io/badge/Email-reachharshyadav%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.fintaxlife.com"><img src="https://img.shields.io/badge/Website-fintaxlife.com-000000?style=flat&logo=vercel&logoColor=white" alt="Website" /></a>
+<a href="https://harsh.fintaxlife.com"><img src="https://img.shields.io/badge/Portfolio-harsh.fintaxlife.com-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 ---
 
