@@ -17,16 +17,8 @@ Finance-driven builder creating products that combine disciplined execution, sca
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshyadavv2456&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF7A00&icon_color=FF7A00&text_color=FFFFFF&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshyadavv2456&layout=compact&theme=dark&bg_color=0D1117&title_color=FF7A00&text_color=FFFFFF&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshyadavv2456&theme=react-dark&bg_color=0D1117&color=FF7A00&line=FF7A00&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=harshyadavv2456&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+<img src="https://github-stats-extended.vercel.app/api?username=harshyadavv2456&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF7A00&icon_color=FF7A00&text_color=FFFFFF&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=harshyadavv2456&layout=compact&theme=dark&bg_color=0D1117&title_color=FF7A00&text_color=FFFFFF&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
