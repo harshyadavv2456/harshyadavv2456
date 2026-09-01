@@ -8,6 +8,16 @@ Four systems. One unified vision. Institutional-grade execution.
 
 ---
 
+### 📊 GitHub Stats
+
+
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=harshyadavv2456&theme=dark&background=0D1117&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&hide_border=true)
+
+
+
+---
+
 ### 🔨 Featured Projects
 
 | Project | Status | Description |
@@ -41,11 +51,31 @@ Currently focused on building **FinVest**, **Intima**, **Phantom**, and **Pixel 
 
 Open to thoughtful conversations, ambitious ideas, and serious collaborations — finance, entrepreneurship, systems building.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fcaharshyadav/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/harsh_rs_yadav/)
-[![Email](https://img.shields.io/badge/Email-reachharshyadav%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:reachharshyadav@gmail.com)
-[![Website](https://img.shields.io/badge/Website-fintaxlife.com-000000?style=flat&logo=vercel&logoColor=white)](https://www.fintaxlife.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-harsh.fintaxlife.com-000000?style=flat&logo=vercel&logoColor=white)](https://harsh.fintaxlife.com)
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/fcaharshyadav/)
+[
+
+![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)
+
+](https://www.instagram.com/harsh_rs_yadav/)
+[
+
+![Email](https://img.shields.io/badge/Email-reachharshyadav%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
+
+](mailto:reachharshyadav@gmail.com)
+[
+
+![Website](https://img.shields.io/badge/Website-fintaxlife.com-000000?style=flat&logo=vercel&logoColor=white)
+
+](https://www.fintaxlife.com)
+[
+
+![Portfolio](https://img.shields.io/badge/Portfolio-harsh.fintaxlife.com-000000?style=flat&logo=vercel&logoColor=white)
+
+](https://harsh.fintaxlife.com)
 
 ---
 
