@@ -10,11 +10,19 @@ Four systems. One unified vision. Institutional-grade execution.
 
 ### 📊 GitHub Stats
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harshyadavv2456&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7A00&icon_color=FF7A00&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-streak-stats.demolab.com/?user=harshyadavv2456&theme=dark&background=0D1117&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&hide_border=true" width="49%" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshyadavv2456&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF7A00&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshyadavv2456&theme=react-dark&bg_color=0D1117&color=FF7A00&line=FF7A00&point=ffffff&hide_border=true" width="49%" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=harshyadavv2456&theme=dark&background=0D1117&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&hide_border=true)
-
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=harshyadavv2456&theme=darkhub&no-frame=true&margin-w=10&row=1" />
+</p>
 
 ---
 
