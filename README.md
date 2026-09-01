@@ -17,7 +17,7 @@ Finance-driven builder creating products that combine disciplined execution, sca
 </p>
 
 <p align="center">
-<img src="https://github-stats-extended.vercel.app/api?username=harshyadavv2456&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF7A00&icon_color=FF7A00&text_color=FFFFFF&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api?username=harshyadavv2456&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF7A00&icon_color=FF7A00&text_color=FFFFFF&hide_border=true&count_private=true&hide=prs,issues,contribs&include_all_commits=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=harshyadavv2456&layout=compact&theme=dark&bg_color=0D1117&title_color=FF7A00&text_color=FFFFFF&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
