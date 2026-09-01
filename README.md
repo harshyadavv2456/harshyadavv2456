@@ -1,20 +1,33 @@
-# Hi, I'm Harsh Yadav 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&pause=1000&color=FF7A00&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Harsh+Yadav+%F0%9F%91%8B;Building+Institutional-Grade+Financial+Systems;Privacy-First+AI+Infrastructure;Finance+%2B+Engineering+%2B+Product" alt="Typing SVG" />
+</h1>
 
-**Building institutional-grade financial systems and privacy-first AI infrastructure**
-
+<p align="center">
 Finance-driven builder creating products that combine disciplined execution, scalable systems, and real-world utility. I build independently across financial intelligence, privacy-first AI infrastructure, and consumer-scale platforms — from quantitative capital markets tooling to on-device AI and browser-based gaming.
+</p>
 
-Four systems. One unified vision. Institutional-grade execution.
+<p align="center"><b>Four systems. One unified vision. Institutional-grade execution.</b></p>
 
 ---
 
 ### 📊 GitHub Stats
 
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=harshyadavv2456&theme=dark&background=0D1117&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&hide_border=true" alt="GitHub Streak" />
+</p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=harshyadavv2456&show_icons=true&theme=dark&bg_color=0D1117&title_color=FF7A00&icon_color=FF7A00&text_color=FFFFFF&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshyadavv2456&layout=compact&theme=dark&bg_color=0D1117&title_color=FF7A00&text_color=FFFFFF&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=harshyadavv2456&theme=dark&background=0D1117&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&hide_border=true)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshyadavv2456&theme=react-dark&bg_color=0D1117&color=FF7A00&line=FF7A00&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</p>
 
-
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=harshyadavv2456&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
+</p>
 
 ---
 
@@ -41,6 +54,10 @@ Four systems. One unified vision. Institutional-grade execution.
 
 ### ⚙️ Core Expertise
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,postgres,git,figma,vercel&theme=dark" alt="Skills" />
+</p>
+
 `Quantitative Finance & Capital Markets` · `Data Analysis & Python` · `Financial Systems & Compliance` · `AI/ML Infrastructure` · `Direct Taxation & Regulatory Compliance`
 
 Currently focused on building **FinVest**, **Intima**, **Phantom**, and **Pixel Sprout** as independent, scalable systems.
@@ -55,27 +72,27 @@ Open to thoughtful conversations, ambitious ideas, and serious collaborations �
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
-]
+](https://www.linkedin.com/in/fcaharshyadav/)
 [
 
 ![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)
 
-]
+](https://www.instagram.com/harsh_rs_yadav/)
 [
 
 ![Email](https://img.shields.io/badge/Email-reachharshyadav%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
 
-]
+](mailto:reachharshyadav@gmail.com)
 [
 
 ![Website](https://img.shields.io/badge/Website-fintaxlife.com-000000?style=flat&logo=vercel&logoColor=white)
 
-]
+](https://www.fintaxlife.com)
 [
 
 ![Portfolio](https://img.shields.io/badge/Portfolio-harsh.fintaxlife.com-000000?style=flat&logo=vercel&logoColor=white)
 
-]
+](https://harsh.fintaxlife.com)
 
 ---
 
